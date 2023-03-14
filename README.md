@@ -24,7 +24,7 @@ trajectories.
 
 ## Cite as
 
-Jessica Nisén, Maarten J. Bijlsma, Pekka Martikainen, Ben Wilson, Mikko Myrskylä (2022) Code repository for: The gendered impacts of delayed parenthood A dynamic analysis of young adulthood. Zenodo.
+Jessica Nisén, Maarten J. Bijlsma, Pekka Martikainen, Ben Wilson, Mikko Myrskylä (2022) Code repository for: The gendered impacts of delayed parenthood A dynamic analysis of young adulthood. Zenodo. https://zenodo.org/record/7732549#.ZBBGoi8RoUs
 
 ## License
 
