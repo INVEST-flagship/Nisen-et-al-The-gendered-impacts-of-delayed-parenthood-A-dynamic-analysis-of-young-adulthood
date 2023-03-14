@@ -2,6 +2,9 @@
 
 ## A code repository for the statistical analyses
 
+[![DOI](https://zenodo.org/badge/613778612.svg)](https://zenodo.org/badge/latestdoi/613778612)
+
+
 ## Introduction
 
 We chart the dynamics of delayed parenthood and its implications for educational and labor market trajectories for
