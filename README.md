@@ -11,7 +11,7 @@ This method allows the estimation of both population-averaged effects (among all
 treatment effects (among mothers and fathers). Based on high-quality data from Finnish registers, we find that
 later parenthood exacerbates the educational advantage of women in comparison to men and attenuates the
 income advantage of men in comparison to women across young adult ages. Gender differences in the consequences of delayed parenthood on labor market trajectories are largely not explained by changes in educational
-trajectories
+trajectories.
 
 ## Output examples
 
