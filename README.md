@@ -10,8 +10,7 @@ young adult women and men using a novel longitudinal analysis approach, the para
 This method allows the estimation of both population-averaged effects (among all women and men) and average
 treatment effects (among mothers and fathers). Based on high-quality data from Finnish registers, we find that
 later parenthood exacerbates the educational advantage of women in comparison to men and attenuates the
-income advantage of men in comparison to women across young adult ages. Gender differences in the conse-
-quences of delayed parenthood on labor market trajectories are largely not explained by changes in educational
+income advantage of men in comparison to women across young adult ages. Gender differences in the consequences of delayed parenthood on labor market trajectories are largely not explained by changes in educational
 trajectories
 
 ## Output examples
