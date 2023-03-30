@@ -16,11 +16,6 @@ later parenthood exacerbates the educational advantage of women in comparison to
 income advantage of men in comparison to women across young adult ages. Gender differences in the consequences of delayed parenthood on labor market trajectories are largely not explained by changes in educational
 trajectories.
 
-## Output examples
-
-<img width="666" alt="Screenshot 2023-03-14 at 11 20 02" src="https://user-images.githubusercontent.com/75479046/224957842-25b7d0d1-acf6-4736-bc79-8add2efa3bd8.png">
-
-<img width="662" alt="Screenshot 2023-03-14 at 11 20 31" src="https://user-images.githubusercontent.com/75479046/224957875-d967e59a-5549-4ff4-b5a8-a945630fa0d2.png">
 
 ## Cite as
 
